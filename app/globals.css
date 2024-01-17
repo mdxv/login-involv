@@ -5,7 +5,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 :root {
-  background-color: #f7f7f7;
+  background: url(../public/bg.png) no-repeat;
+  background-size: cover;
+  
   font-family: 'Inter', sans-serif;
 }
 
